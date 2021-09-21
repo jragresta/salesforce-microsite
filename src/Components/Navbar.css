@@ -7,7 +7,6 @@
     align-items: center;
     position:fixed;
     z-index: 999;
-    cursor: pointer;
 }
 
 .navbar-container{
@@ -39,6 +38,7 @@
     font-family: 'Open Sans', sans-serif;
     font-weight:550;
     font-size: 8px;
+    cursor: pointer;
 }
 .nav-links{
     display: inline;
