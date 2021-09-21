@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/salesforce-microsite/static/css/main.e8fa9bd3.chunk.css",
+    "main.css": "/salesforce-microsite/static/css/main.b7499552.chunk.css",
     "main.js": "/salesforce-microsite/static/js/main.3d26c1ac.chunk.js",
     "main.js.map": "/salesforce-microsite/static/js/main.3d26c1ac.chunk.js.map",
     "runtime-main.js": "/salesforce-microsite/static/js/runtime-main.afbbf4ba.js",
@@ -8,7 +8,7 @@
     "static/js/2.8ee4ddf2.chunk.js": "/salesforce-microsite/static/js/2.8ee4ddf2.chunk.js",
     "static/js/2.8ee4ddf2.chunk.js.map": "/salesforce-microsite/static/js/2.8ee4ddf2.chunk.js.map",
     "index.html": "/salesforce-microsite/index.html",
-    "static/css/main.e8fa9bd3.chunk.css.map": "/salesforce-microsite/static/css/main.e8fa9bd3.chunk.css.map",
+    "static/css/main.b7499552.chunk.css.map": "/salesforce-microsite/static/css/main.b7499552.chunk.css.map",
     "static/js/2.8ee4ddf2.chunk.js.LICENSE.txt": "/salesforce-microsite/static/js/2.8ee4ddf2.chunk.js.LICENSE.txt",
     "static/media/astro.2530937a.png": "/salesforce-microsite/static/media/astro.2530937a.png",
     "static/media/HeroSection.css": "/salesforce-microsite/static/media/bg-hero.8ef2fdee.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.afbbf4ba.js",
     "static/js/2.8ee4ddf2.chunk.js",
-    "static/css/main.e8fa9bd3.chunk.css",
+    "static/css/main.b7499552.chunk.css",
     "static/js/main.3d26c1ac.chunk.js"
   ]
 }
