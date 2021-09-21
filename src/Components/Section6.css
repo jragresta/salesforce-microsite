@@ -1,0 +1,96 @@
+.Section6{
+    background-color: #FFFFFF;
+    margin-top:100px;
+    height:100vh;
+    
+}
+.Section6-container{
+    text-align: right;
+    display:flex;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom:50px;
+}
+.Section6-container >h3{
+    font-family: ' Montserrat', sans-serif;
+    color:#032E60;
+    font-size: 48px;
+    line-height: 52.8px;
+    font-weight:normal;
+}
+.section6-links{
+    padding-right:160px;
+    text-align: right;
+    text-decoration: none;
+}
+
+.section6-btn {
+    position:relative;
+    left:-50px;
+    font-family: 'Open Sans', sans-serif;
+    width:auto;
+    font-size: 16px;
+    padding: 15px 32px;
+    border:1px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: #0176D3;
+    color: #FFFFFF;
+}
+
+.section6-btn:hover {
+    transition: all 0.3s ease-out;
+    background: #ecf5fd;
+    color: #0176D3;
+    transition: 250ms;
+}
+.learn-link{
+    color:#032E60;
+    display:inline;
+    text-decoration: none;
+}
+.fa-chevron-right{
+    display:inline;
+    margin-left:15px;
+}
+.section6_img{
+    display:flex;
+    left:400px;
+    width:1200px;
+    height:auto;
+}
+
+@media screen and (max-width: 960px) {
+    .Section6{
+        margin-top:50px;
+        margin-left:0px;
+        margin-bottom:50px;
+        width:100%;
+    }
+    .Section6-container >h3{
+        font-size:36px;
+    }
+    .Section6-container{
+        text-align: center;
+        display:inline;
+    }
+    .section6-links{
+        position:relative;
+        text-align: center;
+        top:550px;
+        right:-50px;
+    }
+    .section6-btn {
+        padding:25px 52px;
+        left:0px;
+        margin-right:50px;
+        margin-top:50px;
+    }
+    .section6_img{
+        position:relative;
+        top:-60px;
+        left:-50px;
+        width:90%;
+    }
+}

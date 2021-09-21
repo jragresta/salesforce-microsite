@@ -1,0 +1,38 @@
+.Section2-Container{
+    width: 130vh;
+    height:35vh;
+}
+.Section2-text{
+    font-family: 'Open Sans', sans-serif;
+    font-size:16px;
+    display:flex;
+    margin-left:0px;
+    width: 875px;
+    float:left;
+}
+.Section2-Container >h1{
+    color:#032E60;
+    margin-top: 60pt;
+    margin-left:0pt;
+    margin-bottom: 20pt;
+    font-family: 'Montserrat', sans-serif;
+}
+.Section2-Container >p{
+    float:left;
+}
+.image-astro{
+    width:300px;
+    transform: translate(150%, -50%);
+}
+
+@media screen and (max-width: 960px) {
+.Section2-Container{
+    width:80%;
+}
+.Section2-text{
+    width:100%
+}
+.image-astro{
+    display: none;
+}
+}

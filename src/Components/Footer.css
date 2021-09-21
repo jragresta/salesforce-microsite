@@ -1,0 +1,98 @@
+.Footer-container{
+    background-color: #032E60;
+    height:30vh;
+    width:100%;
+}
+.line1{
+    display:flex;
+    position:relative;
+    top:50px;
+    left:-20px;
+    display:flex;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+    font-weight: 200;
+    
+}
+
+.SF_logo{
+    display:flex;
+    top:20px;
+    left:70px;
+    position:relative;
+    width:60px;
+    /* margin-right:550px; */
+}
+
+.line2{
+    display:flex;
+    position:relative;
+    top:40px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+    font-weight:normal;
+    font-size:16px;
+    line-height: 22.4px;
+    
+}
+.line3{
+    display:flex;
+    position:relative;
+    top:70px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+    font-weight:bold;
+    font-size:16px;
+    line-height: 22.4px;
+    
+}
+.line4{
+    display:flex;
+    position:relative;
+    top:75px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+    font-weight:normal;
+    font-size:11px;
+    line-height: 15.4px;
+    
+}
+.line5{
+    display:flex;
+    position:relative;
+    top:75px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+    font-weight:normal;
+    font-size:11px;
+    line-height: 15.4px;
+    
+}
+.line6{
+    display:flex;
+    position:relative;
+    top:100px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+    font-weight:normal;
+    font-size:16px;
+    line-height: 22.4px;
+    
+}
+@media screen and (max-width: 960px) {
+    .Footer-container{
+        height:35vh;
+    }
+    /* .line1{
+        text-align: right;
+    }
+    .SF_logo{
+        margin-right:380px;
+    } */
+}
