@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/.github.io/salesforce-microsite/static/css/main.d1567418.chunk.css",
-    "main.js": "/.github.io/salesforce-microsite/static/js/main.4696d780.chunk.js",
-    "main.js.map": "/.github.io/salesforce-microsite/static/js/main.4696d780.chunk.js.map",
+    "main.js": "/.github.io/salesforce-microsite/static/js/main.10d230b0.chunk.js",
+    "main.js.map": "/.github.io/salesforce-microsite/static/js/main.10d230b0.chunk.js.map",
     "runtime-main.js": "/.github.io/salesforce-microsite/static/js/runtime-main.17537490.js",
     "runtime-main.js.map": "/.github.io/salesforce-microsite/static/js/runtime-main.17537490.js.map",
-    "static/js/2.aad4fa33.chunk.js": "/.github.io/salesforce-microsite/static/js/2.aad4fa33.chunk.js",
-    "static/js/2.aad4fa33.chunk.js.map": "/.github.io/salesforce-microsite/static/js/2.aad4fa33.chunk.js.map",
+    "static/js/2.cde1b4c0.chunk.js": "/.github.io/salesforce-microsite/static/js/2.cde1b4c0.chunk.js",
+    "static/js/2.cde1b4c0.chunk.js.map": "/.github.io/salesforce-microsite/static/js/2.cde1b4c0.chunk.js.map",
     "index.html": "/.github.io/salesforce-microsite/index.html",
     "static/css/main.d1567418.chunk.css.map": "/.github.io/salesforce-microsite/static/css/main.d1567418.chunk.css.map",
-    "static/js/2.aad4fa33.chunk.js.LICENSE.txt": "/.github.io/salesforce-microsite/static/js/2.aad4fa33.chunk.js.LICENSE.txt",
+    "static/js/2.cde1b4c0.chunk.js.LICENSE.txt": "/.github.io/salesforce-microsite/static/js/2.cde1b4c0.chunk.js.LICENSE.txt",
     "static/media/astro.2530937a.png": "/.github.io/salesforce-microsite/static/media/astro.2530937a.png",
     "static/media/HeroSection.css": "/.github.io/salesforce-microsite/static/media/bg-hero.8ef2fdee.png",
     "static/media/einstein.4d2bb885.png": "/.github.io/salesforce-microsite/static/media/einstein.4d2bb885.png",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.17537490.js",
-    "static/js/2.aad4fa33.chunk.js",
+    "static/js/2.cde1b4c0.chunk.js",
     "static/css/main.d1567418.chunk.css",
-    "static/js/main.4696d780.chunk.js"
+    "static/js/main.10d230b0.chunk.js"
   ]
 }
