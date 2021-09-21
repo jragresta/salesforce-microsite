@@ -1,18 +1,19 @@
 .Section2-Container{
-    width: 130vh;
-    height:35vh;
+    height:40vh;
+    padding:6rem 10rem;
+    min-width: 1300px;
 }
 .Section2-text{
+    display:inline;
     font-family: 'Open Sans', sans-serif;
     font-size:16px;
     display:flex;
     margin-left:0px;
-    width: 875px;
+    width: 74%;
     float:left;
 }
 .Section2-Container >h1{
     color:#032E60;
-    margin-top: 60pt;
     margin-left:0pt;
     margin-bottom: 20pt;
     font-family: 'Montserrat', sans-serif;
@@ -21,13 +22,18 @@
     float:left;
 }
 .image-astro{
-    width:300px;
-    transform: translate(150%, -50%);
+    display:inline;
+    float:right;
+    width:60%;
+    max-width:250px;
+    transform: translate(0%, -45%);
 }
 
 @media screen and (max-width: 960px) {
 .Section2-Container{
-    width:80%;
+    width:100%;
+    padding:6rem 3rem;
+    min-width: 700px;
 }
 .Section2-text{
     width:100%

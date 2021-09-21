@@ -20,8 +20,7 @@ function Section4() {
                     </figure>
                     <h6>EYEBROW</h6>
                     <h2>Lorem ipsum dolor sit amet, consectetur adipiscing</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum </p>
-                    <p>dolor sit amet, consectetur adipiscing elit, sed doad. dolor sit.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doad. dolor sit.</p>
                     <div className='btn'>
                         <button className='btns'>Learn more</button>
                     </div>

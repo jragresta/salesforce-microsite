@@ -1,6 +1,7 @@
 .Section6{
     background-color: #FFFFFF;
     margin-top:100px;
+    /* margin-bottom:25vh; */
     height:100vh;
     
 }
@@ -16,6 +17,7 @@
     font-size: 48px;
     line-height: 52.8px;
     font-weight:normal;
+    width:100%;
 }
 .section6-links{
     padding-right:160px;
@@ -57,16 +59,18 @@
 .section6_img{
     display:flex;
     left:400px;
-    width:1200px;
+    width:60%;
     height:auto;
+    min-width: 900px;
 }
 
 @media screen and (max-width: 960px) {
     .Section6{
         margin-top:50px;
         margin-left:0px;
-        margin-bottom:50px;
+        margin-bottom:80px;
         width:100%;
+        height:85vh;
     }
     .Section6-container >h3{
         font-size:36px;
@@ -78,8 +82,9 @@
     .section6-links{
         position:relative;
         text-align: center;
-        top:550px;
+        margin-top:550px;
         right:-50px;
+        min-width: 800px;
     }
     .section6-btn {
         padding:25px 52px;
@@ -88,9 +93,11 @@
         margin-top:50px;
     }
     .section6_img{
-        position:relative;
-        top:-60px;
-        left:-50px;
+        margin-top:-650px;
+        /* position:flex; */
+        /* top:-60px; */
+        /* left:-50px; */
         width:90%;
+        min-width: 800px;
     }
 }
