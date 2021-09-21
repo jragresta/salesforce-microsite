@@ -13,7 +13,7 @@ import Section6 from "./Components/Section6";
 function App(){
     return (
         <>
-            <Router basename="/salesforce-microsite">
+            <Router>
                 <Navbar />
                 <Herosection />
                 <Section2 />
