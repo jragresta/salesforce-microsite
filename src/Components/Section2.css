@@ -32,11 +32,8 @@
 @media screen and (max-width: 960px) {
 .Section2-Container{
     width:100%;
-    padding:6rem 3rem;
+    padding:2rem;
     min-width: 700px;
-}
-.Section2-text{
-    width:100%
 }
 .image-astro{
     display: none;
