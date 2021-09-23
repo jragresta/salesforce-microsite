@@ -70,7 +70,7 @@
         margin-left:0px;
         margin-bottom:150px;
         width:100%;
-        height:85vh;
+        height:70vw;
     }
     .Section6-container >h3{
         font-size:36px;
@@ -78,13 +78,12 @@
     .Section6-container{
         text-align: center;
         display:inline;
+        width:100%;
     }
     .section6-links{
-        position:relative;
+        padding-right:0px;
         text-align: center;
-        margin-top:550px;
-        right:-50px;
-        min-width: 800px;
+        margin-top:62vw;
     }
     .section6-btn {
         padding:25px 52px;
@@ -93,8 +92,11 @@
         margin-top:50px;
     }
     .section6_img{
-        margin-top:-650px;
-        width:90%;
-        min-width: 800px;
+        margin-right:0px;
+        margin-left: 0px;
+        transform: translate(0%, -125%);
+        width:100%;
+        max-width: 720px;
+        min-width: 0px;
     }
 }
