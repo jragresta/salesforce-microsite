@@ -63,40 +63,46 @@
     height:auto;
     min-width: 900px;
 }
+.links-mobile{
+    display:none;
+}
 
 @media screen and (max-width: 960px) {
     .Section6{
+        height:680px;
         margin-top:50px;
         margin-left:0px;
-        margin-bottom:150px;
         width:100%;
-        height:70vw;
     }
     .Section6-container >h3{
         font-size:36px;
     }
     .Section6-container{
         text-align: center;
-        display:inline;
         width:100%;
     }
     .section6-links{
-        padding-right:0px;
-        text-align: center;
-        margin-top:62vw;
+        display:none;
     }
-    .section6-btn {
-        padding:25px 52px;
+    .links-mobile{
+        width:100%;
+        display:block;
+        padding-top:20px;
+        text-align: center;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .links-mobile .section6-btn {
+        margin-right:0px;
+        width:auto;
         left:0px;
-        margin-right:50px;
-        margin-top:50px;
+        margin-right:25px;
     }
     .section6_img{
         margin-right:0px;
         margin-left: 0px;
-        transform: translate(0%, -125%);
-        width:100%;
-        max-width: 720px;
+        /* margin-top:-100px; */
+        width:80%;
+        /* max-width: 720px; */
         min-width: 0px;
     }
 }

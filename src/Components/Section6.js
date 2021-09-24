@@ -21,6 +21,11 @@ function Section6() {
                     src={product}
                 />
             </figure>
+            <div className='links-mobile'>
+                    <button className='section6-btn'>Watch demo</button>
+                    <Link className='learn-link'>Learn more<i class="fas fa-chevron-right"></i></Link>
+                    
+            </div>
         </div>
     );
 }
