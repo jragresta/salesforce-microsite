@@ -11,9 +11,9 @@ function Section2(){
                 <div className='Section2-text'>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut lacinia lacus id dolor dictum volutpat. Donec id lorem nec lorem facilisis tempus. In commodo sapien sed nulla mattis, in auctor dolor varius. Vivamus dignissim ac tortor commodo fringilla. In cursus est eget lacus scelerisque congue. Aenean vel finibus nulla. Etiam suscipit metus non gravida venenatis. Quisque vitae volutpat lorem. Nullam aliquam ante nisi, vel egestas erat bibendum a. Nam eu nulla nisl.
                     </p>
-                </div>
-                <div className='image-astro'>
-                    <img src={astro} alt='astro'/> 
+                    <div className='image-astro'>
+                        <img src={astro} alt='astro'/> 
+                    </div>
                 </div>
             </div>
         </div>

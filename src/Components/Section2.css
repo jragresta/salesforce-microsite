@@ -1,5 +1,5 @@
 .Section2-Container{
-    height:50vh;
+    height:450px;
     padding:6rem 10rem;
 }
 .Section2-text{
@@ -8,8 +8,8 @@
     font-size:16px;
     display:flex;
     margin-left:0px;
-    width: 74%;
-    float:left;
+    width: 100%;
+    
 }
 .Section2-Container >h1{
     color:#032E60;
@@ -19,14 +19,17 @@
 }
 .Section2-Container >p{
     float:left;
+    
 }
 .image-astro{
-    position:absolute;
+    margin-right:-150px;
+    margin-left:30px;
     display:inline;
     float:right;
     width:50%;
     max-width:250px;
-    transform: translate(30%, -40%);
+    left: 150px;
+    bottom:60px;
 }
 
 @media screen and (max-width: 960px) {
