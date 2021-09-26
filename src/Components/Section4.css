@@ -18,14 +18,14 @@
     border-radius: 16px;
 }
 .cards__wrapper{
-    /* min-width:550px; */
+    min-width:550px;
     margin-top:-20px;
 }
 .main-card >h2{
     font-family: 'Open Sans', sans-serif;
     color:#032E60;
     font-weight:normal;
-    width:80%;
+    width:75%;
     margin-bottom:20px;
     margin-left:0px;
     line-height:35.2px;
@@ -160,7 +160,7 @@
     .cards__item__img_main{
         width:100%;
         max-width:100%;
-        /* margin-right:40px; */
+        margin-right:40px;
         margin-bottom:10px;
         border-radius: 16px;
     }
