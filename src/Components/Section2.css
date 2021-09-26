@@ -1,7 +1,6 @@
 .Section2-Container{
     height:50vh;
     padding:6rem 10rem;
-    min-width: 1300px;
 }
 .Section2-text{
     display:inline;
@@ -22,11 +21,12 @@
     float:left;
 }
 .image-astro{
+    position:absolute;
     display:inline;
     float:right;
-    width:60%;
+    width:50%;
     max-width:250px;
-    transform: translate(0%, -45%);
+    transform: translate(30%, -40%);
 }
 
 @media screen and (max-width: 960px) {
