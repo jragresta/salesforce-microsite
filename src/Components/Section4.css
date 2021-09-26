@@ -18,14 +18,14 @@
     border-radius: 16px;
 }
 .cards__wrapper{
-    min-width:550px;
+    /* min-width:550px; */
     margin-top:-20px;
 }
 .main-card >h2{
     font-family: 'Open Sans', sans-serif;
     color:#032E60;
     font-weight:normal;
-    width:500px;
+    width:80%;
     margin-bottom:20px;
     margin-left:0px;
     line-height:35.2px;
@@ -120,6 +120,7 @@
     }
     .main-card >h2{
         margin-left:0px;
+        max-width:430px;
     }
     .cards__item__info {
         text-align: left;
@@ -130,7 +131,6 @@
     }
     
     .cards__item__text {
-        /* width:400px; */
         margin-bottom:40px;
         margin-left: 0;
         margin-right:0;
@@ -144,6 +144,7 @@
     .cards__item__img {
         display: block;
         width:90%;
+        max-width:100%;
         margin-left: 0;
         margin-right: auto;
         border-radius: 16px;
@@ -158,7 +159,8 @@
     }
     .cards__item__img_main{
         width:100%;
-        margin-right:40px;
+        max-width:100%;
+        /* margin-right:40px; */
         margin-bottom:10px;
         border-radius: 16px;
     }
