@@ -22,7 +22,7 @@
     text-decoration: none;
     display: flex;
     align-items: center;
-    transform: translate(200%, 0%);
+    transform: translate(200%, 0%)
 }
 
 .nav-menu{
@@ -93,7 +93,6 @@
         transition: 250ms;
         }
     .navbar-logo {
-        margin-right: 0;
         position: absolute;
         top:0px;
         left:-150px;

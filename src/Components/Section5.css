@@ -27,7 +27,6 @@
     padding:100px 30px;
     width:250px;
     margin-right:2rem;
-    /* transform: translate(0%, 30%); */
 }
 
 @media screen and (max-width: 960px) {
@@ -39,11 +38,9 @@
 .Section5-Container{
     padding-left:50px;
     width:100%;
-    max-width:100%;
 }
 .Section5-text >h1{
     padding-top:50px;
-    max-width:100%;
 }
 .Section5-text >p{
     margin-left:0px;
